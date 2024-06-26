@@ -4,7 +4,7 @@ import ChildAdultDetection
 import MailSent
 
 
-ParentMailAddress = "khawajarabeet@gmail.com"
+ParentMailAddress = "dummy1@gmail.com"
 message = "Your child might be in stress!"
 
 stress_level = 0
